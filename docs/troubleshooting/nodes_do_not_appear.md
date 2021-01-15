@@ -4,7 +4,7 @@ If you have created a new node and it wont show up in your flows-library in Node
 
 
 
-- Check the package.json file
+- Check the package.json file.
 
   Make sure you'r node name appears in the package.json file in the "nodes" folder.
   Local path: ~/homegear/node-blue/nodes/
