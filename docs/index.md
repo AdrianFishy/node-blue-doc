@@ -2,7 +2,6 @@
 
 * [Creating Nodes](/creating-nodes)
 
-* [Troubleshooting](/troubleshooting)
-
   
+
 

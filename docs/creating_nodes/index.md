@@ -24,6 +24,14 @@ When developing new nodes, please follow the following principles:
 * Nodes should have a good documentation.
 * Errors should always be catched, otherwise they might crash the whole process.
 
+## Troubleshooting
+
+This guide will help you to solve errors or problems with Node-Blue
+
+Please click on the sections you want to read:
+
+* [New Nodes don't apper in the flow-library](nodes_do_not_appear.md)
+
 ## License
 
 Except as otherwise provided, content on this site, including all materials posted by the ib company GmbH or Homegear GmbH, is licensed under a Creative Commons Attribution 4.0 License.
