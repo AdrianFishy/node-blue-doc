@@ -1,0 +1,39 @@
+site_name: Node-BLUE Documentation
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - search.share
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/solid/home
+      link: https://doc.homegear.eu/
+      name: Homegear Documentation Home
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/smart_homegear
+      name: Homegear on Twitter
+nav:
+  - Overview: index.md
+  - Getting Started:
+    - getting_started/index.md
+    - getting_started/installation.md
+    - getting_started/configuration.md
+  - Creating Nodes:
+    - creating_nodes/index.md
+    - creating_nodes/first_node.md
+    - creating_nodes/node_initialization_and_deinitialization.md
+    - creating_nodes/javascript_code_files.md
+plugins:
+  - search
+markdown_extensions:
+  - toc:
+      toc_depth: 3
+      permalink: true
+  - fontawesome_markdown
+  - admonition
+  - footnotes
+
